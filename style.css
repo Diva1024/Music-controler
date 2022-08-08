@@ -1,0 +1,41 @@
+.heading{
+    font-size: 40px;
+    color:blanchedalmond;
+    font-style: oblique;
+    background-color: rgb(231, 23, 145);
+}
+.span_1{
+    font-size:30px;
+    color:rgb(248, 195, 248);
+    font-style: italic;
+}
+body{
+    background-size:cover;
+
+}
+.div_speed_gif, .div_vol_gif{
+    width:200px;
+    border-radius: 100px;
+    
+}
+.div_speed {
+    float:left;
+}
+#speed,#volume{
+font-size: 20px;
+margin:15px;
+
+}
+.div_vol{
+    float:right;
+}
+.play_button{
+    width:130px;
+    font-size: 25px;
+    margin-top: -150px !important;
+}
+canvas{
+    border:5px solid burlywood;
+    border-radius: 20px;
+    margin-top: 20px;
+}
